@@ -8,7 +8,8 @@ Hi dear , I'm Victor Raony  👋
  <div>
   <a href="https://github.com/Victor-Raony">
 
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Raony&layout=discord_old_blurple_count=7&theme=react"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Raony&layout=discord_old_blurple_count=7&theme=react">
+   
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
