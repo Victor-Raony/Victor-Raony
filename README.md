@@ -2,14 +2,14 @@ Hi dear , I'm Victor Raony  👋
 
  
 - 🔭 I’m currently working on Banco Digimias
-- 🌱 Learning HTML, JAVASCRIPT,REACT, NODEJS, REACT NATIVE, XD, PYTHON e POWER BI
+- 🌱 Learning HTML, JAVASCRIPT,REACT, NODEJS, REACT NATIVE, FIGMA, PYTHON e POWER BI
 - 📫 How to reach me: Tel: 66 9 9696 6360 | E-mail: victor_raony12@hotmail.com
 
- <div alingn="center">
+<div alingn="center">
   <a href="https://github.com/Victor-Raony">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Raony&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Raony&layout=discord_old_blurple_count=7&theme=react"/>
-     
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Victor-Raony&show_icons=true&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical"/>
+      
    
 </div>
 <div style="display: inline_block"><br>
