@@ -8,8 +8,7 @@ Hi dear , I'm Victor Raony  👋
 <div alingn="center">
   <a href="https://github.com/Victor-Raony">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Victor-Raony&show_icons=true&theme=dark"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical"/>
-      
+  
    
 </div>
 <div style="display: inline_block"><br>
