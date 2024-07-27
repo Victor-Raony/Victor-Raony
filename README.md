@@ -1,1 +1,1 @@
-<a href="https://app.rocketseat.com.br/me/victor-raony-moraes-lima-1567288511"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=victor-raony-moraes-lima-1567288511&type=card" width="280" alt="VICTOR RAONY's Rocket ID"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Victor%20Raony&theme=github-dark-dimmed&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=490&card_height=199" alt="GitHub Streak" /></a>
