@@ -1,1 +1,1 @@
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Victor%20Raony&theme=github-dark-dimmed&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=490&card_height=199" alt="GitHub Streak" /></a>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
